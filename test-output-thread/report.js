@@ -1,0 +1,4 @@
+$(document).ready(function() {
+CucumberHTML.timelineItems.pushArray([{"id":"475acd3a-a231-4088-9618-b1382d653894","feature":"Profile page features","scenario":"Search a track","start":1684388271710,"group":1,"content":"","tags":"","end":1684388298164,"className":"passed"},{"id":"3dcd5f45-5f89-48d3-88f6-290320cbe78b","feature":"Search page features","scenario":"Search a track","start":1684388298216,"group":1,"content":"","tags":"","end":1684388331526,"className":"passed"},{"id":"3c9c7dd2-d4ed-4d92-b301-d6747dcc48a0","feature":"Login in Spotify","scenario":"Login to Spotify application","start":1684388331551,"group":1,"content":"","tags":"","end":1684388351744,"className":"passed"}]);
+CucumberHTML.timelineGroups.pushArray([{"id":1,"content":"Thread[main,5,main]"}]);
+});
